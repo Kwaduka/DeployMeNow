@@ -1,0 +1,3 @@
+http://167.99.100.115 {
+  reverse_proxy localhost:8000
+}
